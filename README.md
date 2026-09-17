@@ -1,1 +1,0 @@
-# paypay-point-app
